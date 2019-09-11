@@ -1,0 +1,24 @@
+{
+  "name": "zany-verbena",
+  "version": "1.0.0",
+  "description": "File Metadata Microservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/william-phokompe/zany-verbena.git"
+  },
+  "keywords": [
+    "files",
+    "metadata",
+    "microservice"
+  ],
+  "author": "William Phokompe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/william-phokompe/zany-verbena/issues"
+  },
+  "homepage": "https://github.com/william-phokompe/zany-verbena#readme"
+}
